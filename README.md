@@ -1,1 +1,0 @@
-# Vic's personal site .
