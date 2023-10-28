@@ -237,15 +237,23 @@ form button {
 
 /* portfolio page */
 .tetris{
-    display: block;
+    /* display: block; */
     text-align: center;
 }
 .tetris img{
-    margin: 0 ;
+    margin-top: 0px ;
     scale: 0.7;
 }
-.tetris p{
+/* .tetris p{
     margin-top: 10px; 
+} */
+
+.tetris :hover{
+    scale: 0.72;
+}
+.projects{
+    display: flex;
+    flex-direction: row;
 }
 
 
