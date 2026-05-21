@@ -281,13 +281,16 @@ form button {
 
 /* portfolio page */
 .project-card {
-    text-align: center;
+    /* text-align: center;
     transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1),
         box-shadow 0.4s cubic-bezier(0.22, 1, 0.36, 1);
 
     will-change: transform;
     margin-left: 20px;
-    margin-right: 20px;
+    margin-right: 20px; */
+    width: 100%;
+    max-width: 320px;
+    height: auto;
 }
 
 .project-card img {
