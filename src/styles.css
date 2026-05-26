@@ -390,7 +390,7 @@ form button {
     will-change: transform;
     margin-left: 20px;
     margin-right: 20px; */
-    width: min(100%, 360px);
+    width: min(100%, 520px);
     height: auto;
     padding: 18px;
     border: 1px solid rgba(255, 255, 255, 0.08);
@@ -417,7 +417,7 @@ form button {
     flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
-    width: min(100% - 32px, 1200px);
+    width: min(100% - 32px, 1320px);
     padding: clamp(30px, 7vh, 70px) 0;
 }
 
