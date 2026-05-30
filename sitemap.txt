@@ -1,0 +1,6 @@
+https://viktorahlberk.github.io/index.html
+https://viktorahlberk.github.io/src/pages/about.html
+https://viktorahlberk.github.io/src/pages/stack.html
+https://viktorahlberk.github.io/src/pages/sertificates.html
+https://viktorahlberk.github.io/src/pages/portfolio.html
+https://viktorahlberk.github.io/src/pages/contact.html
