@@ -395,6 +395,7 @@ form button {
 .project-name {
     text-align: center;
     margin-bottom: 7px;
+    font-size: x-large;
 }
 
 .project-links {
@@ -424,10 +425,10 @@ form button {
     margin: 0;
 }
 
-.project-card:hover {
+/* .project-card:hover {
     transform: translateY(-8px) scale(1.01);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-}
+} */
 
 .projects {
     display: flex;
